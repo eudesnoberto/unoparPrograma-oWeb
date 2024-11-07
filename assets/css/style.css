@@ -1,0 +1,74 @@
+/* Estilo geral */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b5d6f8;
+}
+
+.container {
+    max-width: 600px;
+    margin-top: 40px;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(221, 163, 163, 0.1);
+}
+
+h2, h3 {
+    color: #333;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: #4A90E2;
+    border-color: #4A90E2;
+}
+
+.btn-primary:hover {
+    background-color: #357ABD;
+    border-color: #357ABD;
+}
+
+/* Formulário de entrada */
+#signo-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#signo-form .form-label {
+    font-weight: bold;
+    color: #555;
+}
+
+#signo-form .form-control {
+    max-width: 300px;
+    margin-bottom: 15px;
+}
+
+/* Estilo do resultado */
+.resultado-signo {
+    text-align: center;
+    background-color: #e9f7fc;
+    border: 1px solid #bde0fe;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.resultado-signo h2 {
+    color: #007bff;
+}
+
+.resultado-signo p {
+    font-size: 1.1em;
+    color: #555;
+}
+
+.navbar-brand {
+    text-shadow: 1px 1px 4px rgba(194, 61, 61, 0.3);
+    color: #4e0c0c !important;
+}
+
+
+.navbar-custom {
+    background-color: #b5d6f8;
+}
