@@ -53,6 +53,21 @@ Sistema-de-Signos/
 
 └── .gitignore                     # Arquivo para ignorar arquivos não necessários no repositório
 
+## Explicação da Estrutura:
+
+- assets: Pasta que contém todos os arquivos estáticos, como imagens, arquivos CSS e scripts JS.
+
+- css/style.css: Arquivo de estilização personalizado.
+- imgs: Pasta onde as imagens utilizadas no site são armazenadas.
+- js: Pasta para scripts JavaScript que podem ser usados para validações ou interatividade adicional.
+- layouts/header.php: Arquivo que contém a parte de cabeçalho da página, como links para o Bootstrap e outros recursos globais.
+
+- index.php: Página inicial do projeto, contendo o formulário para o usuário inserir sua data de nascimento e ser redirecionado para a página com o signo.
+
+- show_zodiac_sign.php: Página que recebe os dados do formulário, processa as informações e exibe o signo correspondente ao usuário.
+
+- signos.xml: Arquivo XML que armazena as informações sobre os signos zodiacais, como o nome do signo, datas de início e fim e uma descrição.
+
 
 
 
