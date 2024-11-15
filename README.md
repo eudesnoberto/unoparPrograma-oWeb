@@ -31,7 +31,7 @@ Este trabalho demonstra a utilização de PHP e XML para consulta dinâmica de d
 
 - Este projeto é de uso acadêmico e pode ser utilizado para fins educacionais.
 - Intituição: Unopar.
-Aluno: Francieudes Silva Noberto Alves.
-Curso: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
-Portifólio: Programação Web.
+- Aluno: Francieudes Silva Noberto Alves.
+- Curso: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
+- Portifólio: Programação Web.
 
