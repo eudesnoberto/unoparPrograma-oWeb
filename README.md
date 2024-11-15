@@ -85,11 +85,6 @@ Este projeto é de **uso acadêmico** e pode ser utilizado para fins educacionai
 
 ---
 
-Essa versão está mais clara e organizada, facilitando a compreensão do propósito do projeto, das tecnologias utilizadas e das instruções para execução. Ela também detalha melhor a estrutura do projeto e dá uma conclusão que contextualiza o aprendizado.
-
-## Licença
-
-- Este projeto é de uso acadêmico e pode ser utilizado para fins educacionais.
 
 
 
