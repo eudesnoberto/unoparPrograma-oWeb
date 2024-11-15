@@ -27,14 +27,16 @@ Este projeto foi desenvolvido como parte de um trabalho acadêmico na faculdade 
 
 Este trabalho demonstra a utilização de PHP e XML para consulta dinâmica de dados, além de aplicar boas práticas de desenvolvimento web com HTML, CSS e Bootstrap.
 
-## Licença
-
-- Este projeto é de uso acadêmico e pode ser utilizado para fins educacionais.
-
-## Sobre
+## Mais
 
 - Intituição: Unopar.
 - Aluno: Francieudes Silva Noberto Alves.
 - Curso: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
 - Portifólio: Programação Web.
+
+## Licença
+
+- Este projeto é de uso acadêmico e pode ser utilizado para fins educacionais.
+
+
 
