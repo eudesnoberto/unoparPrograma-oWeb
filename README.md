@@ -22,7 +22,23 @@ Este projeto foi desenvolvido como parte de um trabalho acadêmico na faculdade 
 
 ## Estrutura do Projeto
 
-/Project ├── /assets │ ├── /css │ │ └── style.css # Arquivo CSS para estilização personalizada │ ├── /imgs # Pasta para imagens utilizadas no projeto │ └── /js # Pasta para scripts JavaScript (se necessário) ├── /layouts │ └── header.php # Arquivo de cabeçalho com link para Bootstrap ├── index.php # Página inicial com o formulário para entrada da data de nascimento ├── show_zodiac_sign.php # Página que exibe o signo e informações relacionadas ├── signos.xml # Arquivo XML com as informações dos signos zodiacais
+Sistema-de-Signos/
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css                 # Arquivo de estilo personalizado
+│   ├── imgs/                         # Pasta para imagens
+│   └── js/                           # Pasta para scripts JavaScript (se necessário)
+│
+├── layouts/
+│   └── header.php                    # Arquivo de cabeçalho com link para o Bootstrap
+│
+├── index.php                          # Página inicial com formulário de entrada de data
+├── show_zodiac_sign.php               # Página que exibe o signo com informações
+├── signos.xml                         # Arquivo XML com as informações dos signos zodiacais
+├── README.md                          # Arquivo de documentação do projeto (este arquivo)
+└── .gitignore                         # Arquivo para ignorar arquivos não necessários no repositório
+
 
 
 ## Conclusão
