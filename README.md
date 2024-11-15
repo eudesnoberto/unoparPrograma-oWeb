@@ -23,21 +23,36 @@ Este projeto foi desenvolvido como parte de um trabalho acadêmico na faculdade 
 ## Estrutura do Projeto
 
 Sistema-de-Signos/
+
 │
+
 ├── assets/
+
 │   ├── css/
-│   │   └── style.css                 # Arquivo de estilo personalizado
-│   ├── imgs/                         # Pasta para imagens
-│   └── js/                           # Pasta para scripts JavaScript (se necessário)
+
+│   │   └── style.css              # Arquivo de estilo personalizado
+
+│   ├── imgs/                      # Pasta para imagens utilizadas no projeto
+
+│   └── js/                        # Pasta para scripts JavaScript (caso necessário)
+
+
 │
 ├── layouts/
-│   └── header.php                    # Arquivo de cabeçalho com link para o Bootstrap
+
+│   └── header.php                 # Arquivo de cabeçalho com o link para o Bootstrap
+
 │
-├── index.php                          # Página inicial com formulário de entrada de data
-├── show_zodiac_sign.php               # Página que exibe o signo com informações
-├── signos.xml                         # Arquivo XML com as informações dos signos zodiacais
-├── README.md                          # Arquivo de documentação do projeto (este arquivo)
-└── .gitignore                         # Arquivo para ignorar arquivos não necessários no repositório
+├── index.php                      # Página inicial com o formulário
+
+├── show_zodiac_sign.php           # Página que exibe o signo e informações relacionadas
+
+├── signos.xml                     # Arquivo XML com os dados dos signos zodiacais
+
+├── README.md                      # Arquivo de documentação
+
+└── .gitignore                     # Arquivo para ignorar arquivos não necessários no repositório
+
 
 
 
